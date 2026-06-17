@@ -1,4 +1,6 @@
 //% weight=100 color=#FF6B6B icon="\u2699"
+declare var motors: any;
+declare var hub: any;
 namespace MidLine {
     //% blockId="ml_motor_pos"
     //% block="motor A position"
