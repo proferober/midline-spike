@@ -1,0 +1,16 @@
+{
+    "name": "midline-spike",
+    "version": "0.0.1",
+    "description": "Read SPIKE Prime motor position and show on LED display",
+    "license": "MIT",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "spike"
+    ]
+}
